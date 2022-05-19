@@ -2,3 +2,5 @@ Comandos node
 
 npm install mysql
 npm install -g nodemon
+node [nome do arquivo].js
+(abrir no navegador "localhost:[numero da porta]")
