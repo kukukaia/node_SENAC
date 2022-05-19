@@ -1,0 +1,4 @@
+Comandos node
+
+npm install mysql
+npm install -g nodemon
